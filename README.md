@@ -10,4 +10,5 @@ Huffman coding involves the following steps:
 3. Generating Huffman Codes: The Huffman codes are assigned to each character based on their position in the Huffman tree, with left branches representing '0' and right branches representing '1'.
 4. Text Compression: The original text is encoded using the generated Huffman codes, resulting in a compressed representation that occupies fewer bits.
 5. Text Decompression: The compressed text is decoded using the Huffman codes and the Huffman tree, reconstructing the original text.
-# Text-compressor
+## LIVE DEMO
+https://vishwasgaur00.github.io/Text-compressor/
